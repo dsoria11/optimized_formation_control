@@ -24,8 +24,8 @@ For more information, please visit it's respective repository.
    python pid_square_form.py
    ```
    Simulation Variables:
-   - `H_STEP (the step-size for gradient descent)`: 0.15 step-sizes
-   - `DEFAULT_DURATION_SEC`: 15 seconds
+   - `H_STEP (the step-size for gradient descent)`: 0.1
+   - `DEFAULT_DURATION_SEC`: 10 
    - `DEFAULT_NUM_DRONES`: 4
 
 3. Output
