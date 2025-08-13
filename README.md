@@ -23,8 +23,12 @@ For more information, please visit it's respective repository.
    ```bash
    python pid_square_form.py
    ```
+   Simulation Variables:
+   - `H_STEP (the step-size for gradient descent)`: 0.15 step-sizes
+   - `DEFAULT_DURATION_SEC`: 15 seconds
+   - `DEFAULT_NUM_DRONES`: 4
 
-2. Output
+3. Output
    1. Initializes the PyBullet simulation environment and sets up drones at random starting positions.
       - Can use `np.random.seed(0)` to get both in the same initial positions
    2. Calculates desired inter-drone distances based on a target square formation.
