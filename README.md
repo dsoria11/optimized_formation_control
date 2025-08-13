@@ -42,11 +42,7 @@ For more information, please visit it's respective repository.
 
 ![Example Plot](./)
 
-2. Mean gradient magnitude across all drones
-
-![Example Plot](./)
-
-3. Objective function error over time
+2. Objective function error over time comparison
 
 ![Example Plot](./)
       
