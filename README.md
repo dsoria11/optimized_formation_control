@@ -27,16 +27,23 @@ For more information, please visit it's respective repository.
 2. Output
    1. Initializes the PyBullet simulation environment and sets up drones at random starting positions.
       - Can use `np.random.seed(0)` to get both in the same initial positions
-   3. Calculates desired inter-drone distances based on a target square formation.
-   4. Runs the formation control algorithm using gradient descent to minimize formation error.
-   5. Applies a repulsive force for collision avoidance when drones are closer than the safe distance for the first `run` function.
-   6. Updates drone positions in real time using PID controllers to track gradient-based target points.
-   7. Displays a live 3D simulation in the PyBullet viewer showing drones moving into formation.
-   8. Logs and stores:
-       - Gradient magnitude over time for each drone
-       - Mean gradient magnitude across all drones
-       - Objective function error over time
-       - Collision avoidance term values
-   8. Generates Matplotlib plots comparing:
-       - Objective function error with and without collision avoidance
-       - Collision avoidance term behavior during the simulation
+   2. Calculates desired inter-drone distances based on a target square formation.
+   3. Runs the formation control algorithm using gradient descent to minimize formation error.
+   4. Applies a repulsive force for collision avoidance when drones are closer than the safe distance for the first `run` function.
+   5. Updates drone positions in real time using PID controllers to track gradient-based target points.
+   6. Displays a live 3D simulation in the PyBullet viewer showing drones moving into formation.
+
+## Example Plots
+1. Gradient magnitude over time for each drone
+
+![Example Plot](./)
+
+2. Mean gradient magnitude across all drones
+
+![Example Plot](./)
+
+3. Objective function error over time
+
+![Example Plot](./)
+      
+
