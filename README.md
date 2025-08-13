@@ -40,10 +40,10 @@ For more information, please visit it's respective repository.
 ## Example Plots
 1. Gradient magnitude over time for each drone
 
-![Example Plot](./)
+![Example Plot](./Control_Gradient_Magnitudes.png)
 
 2. Objective function error over time comparison
 
-![Example Plot](./)
+![Example Plot](./Objective_Fn_Error_Comparison.png)
       
 
