@@ -1,5 +1,7 @@
 # Drone Multi-Control Algorithm for Formation Control
 This project focuses on developing and optimizing formation control algorithms for multi-UAV systems. Using distance-based formation and gradient descent optimization, our approach enables drones to maintain safe distances, avoid collisions, and achieve precise formations. 
+> [!NOTE]
+> This is an optimization of the original `gym-pybullet-drones`/`examples`/`pid.py` repository , designed for compatibility with [PyBullet](https://github.com/bulletphysics/bullet3)
 
 <table>
    <tr>
