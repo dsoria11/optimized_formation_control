@@ -5,21 +5,14 @@ This project focuses on developing and optimizing formation control algorithms f
    <tr>
       <td>
          <p align="center">Classical Formation Control with Collision</p>
-         <img src="assets/collision_gif.gif" width="100%">
+         <img src="assets/collision_gif.gif" width="70%">
       </td>
       <td>
          <p align="center">Implemented Optimization with No Collision</p>
-         <img src="assets/no_collision_gif.gif" width="100%">
+         <img src="assets/no_collision_gif.gif" width="70%">
       </td>
    </tr>
 </table>
-
-
-
-<div align="center">
-   <img src="assets/collision_gif.gif" width="300" />
-   <img src="assets/no_collision_gif.gif" width="300" />
-</div>
 
 ## Dependencies 
 This project tests its simulations on: `PyBullet` and uses `Python 3.10+`
