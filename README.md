@@ -57,7 +57,7 @@ For more information, please visit PyBullet's repository.
 <img src="assets/Control_Gradient_Magnitudes.png" width="600">
 
 2. Objective function error over time comparison
-<img src="assets/Control_Gradient_Magnitudes.png" width="600">
+<img src="assets/Objective_Fn_Error_Comparison.png" width="600">
 
       
 
