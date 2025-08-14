@@ -3,7 +3,7 @@ This project focuses on developing and optimizing formation control algorithms f
 
 <div align="center">
    <img src="assets/collision_gif.gif" width="400" />
-   <img src="assets/collision_gif.gif" width="400" />
+   <img src="assets/no_collision_gif.gif" width="400" />
 </div>
 
 ![Classic Formation Control Collision Example](assets/collision_gif.gif)
