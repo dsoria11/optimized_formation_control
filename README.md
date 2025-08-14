@@ -53,10 +53,10 @@ For more information, please visit PyBullet's repository.
 ## Example Plots
 1. Gradient magnitude over time for each drone
 
-![Example Plot](./Control_Gradient_Magnitudes.png)
+![Example Plot](assets/Control_Gradient_Magnitudes.png)
 
 2. Objective function error over time comparison
 
-![Example Plot](./Objective_Fn_Error_Comparison.png)
+![Example Plot](assets/Objective_Fn_Error_Comparison.png)
       
 
