@@ -5,11 +5,11 @@ This project focuses on developing and optimizing formation control algorithms f
    <tr>
       <td>
          <p align="center">Classical Formation Control with Collision</p>
-         <img src="assets/collision_gif.gif" width="90%">
+         <img src="assets/collision_gif.gif" width="100%">
       </td>
       <td>
          <p align="center">Implemented Optimization with No Collision</p>
-         <img src="assets/no_collision_gif.gif" width="90%">
+         <img src="assets/no_collision_gif.gif" width="100%">
       </td>
    </tr>
 </table>
