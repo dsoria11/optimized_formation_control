@@ -31,7 +31,7 @@ For more information, please visit PyBullet's repository.
    ```
 2. Important Notice
    
-   If using Windows 11, you may need to install Microsoft's Visual Studio and disable Windows 11 SDK from the `Installation Details` section to get the simulator to work.
+   If using Windows 11, you may need to install Microsoft's Visual Studio and disable Windows 11 SDK from the `Installation Details` section to get the PyBullet simulator to work.
 
 ## How to Use the Code
 1. Using a python terminal
