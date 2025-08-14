@@ -1,6 +1,21 @@
 # Drone Multi-Control Algorithm for Formation Control
 This project focuses on developing and optimizing formation control algorithms for multi-UAV systems. Using distance-based formation and gradient descent optimization, our approach enables drones to maintain safe distances, avoid collisions, and achieve precise formations. 
 
+<table>
+   <tr>
+      <td>
+         <p align="center">Classical Formation Control with Collision</p>
+         <img src="assets/collision_gif.gif" width="100%">
+      </td>
+      <td>
+         <p align="center">Implemented Optimization with No Collision</p>
+         <img src="assets/no_collision_gif.gif" width="100%">
+      </td>
+   </tr>
+</table>
+
+
+
 <div align="center">
    <img src="assets/collision_gif.gif" width="300" />
    <img src="assets/no_collision_gif.gif" width="300" />
