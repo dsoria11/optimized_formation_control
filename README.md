@@ -17,7 +17,7 @@ This project focuses on developing and optimizing formation control algorithms f
 ## Dependencies 
 This project tests its simulations on: `PyBullet` and uses `Python 3.10+`
 
-For more information, please visit it's respective repository.
+For more information, please visit PyBullet's repository.
 - [PyBullet](https://github.com/bulletphysics/bullet3)
 
 ## Virtual Environment Setup
