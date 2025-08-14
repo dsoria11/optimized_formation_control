@@ -37,7 +37,7 @@ For more information, please visit PyBullet's repository.
    python pid_square_form.py
    ```
    Simulation Variables:
-   - `H_STEP (the step-size for gradient descent)`: 0.1
+   - `H_STEP (the step-size for gradient descent)`: 0.15
    - `DEFAULT_DURATION_SEC`: 10 
    - `DEFAULT_NUM_DRONES`: 4
 
